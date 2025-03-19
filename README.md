@@ -2,7 +2,11 @@
 
 ## 👋 Ola, Este aqui é um Projeto Desenvolvido especialmente para a Empresa Digital Print
 
-<img height=200 align="center" src="https://i.pinimg.com/originals/a6/80/22/a680226e0416d012ca1144c120b11bf6.gif" />
+<img height=200 align="center" src="https://i.pinimg.com/originals/67/7b/ae/677bae7a40b03ec5b65c7979c4bb4c80.gif" />
+
+## 📌 Equipe
+
+- 📌 Samuel de Jesus: <a href="https://github.com/samucarvalh0" target="_blank"> Link do Membro </a>
 
 ## 📌 Sobre o Projeto
 
