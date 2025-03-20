@@ -1,41 +1,19 @@
-﻿# Digital-Print
+# 🔴 Sistema de Gerenciamento 🔵
 
-## 👋 Ola, Este aqui é um Projeto Desenvolvido especialmente para a Empresa Digital Print
+**`Projeto`**
 
-<img height=200 align="center" src="https://i.pinimg.com/originals/67/7b/ae/677bae7a40b03ec5b65c7979c4bb4c80.gif" />
+## Sobre
 
-## 📌 Equipe
-
-- 📌 Samuel de Jesus: <a href="https://github.com/samucarvalh0" target="_blank"> Link do Membro </a>
-
-## 📌 Sobre o Projeto
-
-- Desenvolvido especialmente para empresas que desejam ter um sistema de gerenciamento universal! 🚀
-
-- Para a criação do projeto, foi feito uma parceria com a empresa Digital Print, naqual aceitou nossos serviçõs e a instalação de seu sistema, sendo a primeira a possuir.
-
-- Um sistema intuitivo.
-
-## 🎯 Objetivos
-
-- 📌 Otimizar pedidos
-- 📌 Garantindo usabilidade para todos
-- 📌 Site portfólio para ampliar sua presença
-- 📌 Organização
-
-## 🔹 Tecnologias utilizadas
-
-<div align="center" style="display: inline_block"><br>
-    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    <img align="center" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-    <img align="center" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+<div align="center">
+  <img align="right" src="https://media.tenor.com/QJSCcNyWlp4AAAAi/tanjiro-nezuko-and-zenitsu.gif" height="180" style="margin-right: 20px;" />
+  <div align="left">
+    <p align="justify" >
+     - A partir de análises da Digital Print Caçapava, identificou-se a necessidade de um sistema para otimizar a organização de pedidos. Como solução, foi desenvolvido um sistema de gerenciamento com interface intuitiva, garantindo usabilidade para todos os            funcionários, independentemente da experiência com computadores. Além disso, um site portfólio foi criado para ampliar a presença digital da empresa.
+    </p>
+  </div>
 </div>
 
-## 📌📌 Contatos
-
-<div align="center" >
+<div>
     <a href="https://www.youtube.com/@d4vi_964" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a>
@@ -53,6 +31,34 @@
     </a>
 </div>
 
-<div align="center">
-    <img height=200 align="center" src="https://cutecafe.art/wp-content/uploads/2024/10/GURA-AME..gif" />
+---
+
+### 📌 Equipe
+
+<div style="display: inline_block"><br>
+    👨‍💻 Samuel de Jesus: <a href="https://github.com/samucarvalh0" target="_blank"> Link do Membro </a>
+</div>
+<br/>
+<br/>
+
+---
+
+### 🎯 Objetivos
+
+- 📌 Otimizar pedidos
+- 📌 Garantindo usabilidade para todos
+- 📌 Site portfólio para ampliar sua presença
+- 📌 Organização
+
+---
+
+### 🤖 Linguagens e Tecnologias Utilizadas
+
+<div align="center" style="display: inline_block"><br>
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
