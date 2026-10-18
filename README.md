@@ -5,7 +5,6 @@
 ## Sobre
 
 <div align="center">
-  <img align="right" src="https://media.tenor.com/QJSCcNyWlp4AAAAi/tanjiro-nezuko-and-zenitsu.gif" height="180" style="margin-right: 20px;" />
   <div align="left">
     <p align="justify" >
      - A partir de análises da Digital Print Caçapava, identificou-se a necessidade de um sistema para otimizar a organização de pedidos. Como solução, foi desenvolvido um sistema de gerenciamento com interface intuitiva, garantindo usabilidade para todos os            funcionários, independentemente da experiência com computadores. Além disso, um site portfólio foi criado para ampliar a presença digital da empresa.
